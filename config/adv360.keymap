@@ -30,7 +30,7 @@
 &none       &kp N1       &kp N2       &kp N3      &kp N4      &kp N5  &mo 3                                                &mo 3        &kp N6  &kp N7      &kp N8      &kp N9       &kp N0         &none
 &kp ESCAPE  &kp Q        &kp W        &kp F       &kp P       &kp B   &none                                                &none        &kp J   &kp L       &kp U       &kp Y        &kp SEMICOLON  &kp BSLH
 &kp MINUS   &hm LCTRL A  &hm LSHFT R  &hm LGUI S  &hm LALT T  &kp G   &none      &none    &none      &none  &none          &none        &kp M   &hm RALT N  &hm RGUI E  &hm RSHFT I  &hm RCTRL O    &kp SQT
-&kp EQUAL   &kp Z        &kp X        &kp C       &kp D       &kp V                       &none      &none                              &kp K   &kp H       &kp COMMA   &kp DOT      &kp FSLH       &to 2
+&kp EQUAL   &kp Z        &kp X        &kp C       &kp D       &kp V                       &none      &none                              &kp K   &kp H       &kp COMMA   &kp DOT      &kp FSLH       &mo 2
 &none       &none        &none        &none       &none               &kp SPACE  &kp TAB  &none      &none  &kp BACKSPACE  &lt 1 ENTER          &none       &none       &none        &none          &none
             >;
         };
